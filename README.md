@@ -52,7 +52,7 @@ potato-disease-classification-system-main/
 
 ---
 
-## ⚙️ Setup & Installation
+## Setup & Installation
 
 ### 1. Clone / Extract Project
 
